@@ -26,7 +26,7 @@ params = [
 
 i = 0
 
-filename = ""
+fileName = ""
 
 print('Input file:',fileName)
 mat_img = cv2.imread(fileName)
