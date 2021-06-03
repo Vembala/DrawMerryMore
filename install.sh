@@ -27,4 +27,4 @@ unzip AE_whole.zip && rm AE_whole.zip
 
 # run code
 cd ..
-python3.7 test_model.py
+# python3.7 test_model.py
